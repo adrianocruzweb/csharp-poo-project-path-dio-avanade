@@ -7,6 +7,10 @@ namespace trilha_csharp_oo.Models
 {
     public class Professor : Pessoa
     {
+        public Professor()
+        {
+
+        }
 
         public Professor(string nome) : base(nome)
         {
