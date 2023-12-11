@@ -1,0 +1,14 @@
+D:\dio\trilha-csharp-oo\bin\Debug\net8.0\trilha-csharp-oo.exe
+D:\dio\trilha-csharp-oo\bin\Debug\net8.0\trilha-csharp-oo.deps.json
+D:\dio\trilha-csharp-oo\bin\Debug\net8.0\trilha-csharp-oo.runtimeconfig.json
+D:\dio\trilha-csharp-oo\bin\Debug\net8.0\trilha-csharp-oo.dll
+D:\dio\trilha-csharp-oo\bin\Debug\net8.0\trilha-csharp-oo.pdb
+D:\dio\trilha-csharp-oo\obj\Debug\net8.0\trilha-csharp-oo.GeneratedMSBuildEditorConfig.editorconfig
+D:\dio\trilha-csharp-oo\obj\Debug\net8.0\trilha-csharp-oo.AssemblyInfoInputs.cache
+D:\dio\trilha-csharp-oo\obj\Debug\net8.0\trilha-csharp-oo.AssemblyInfo.cs
+D:\dio\trilha-csharp-oo\obj\Debug\net8.0\trilha-csharp-oo.csproj.CoreCompileInputs.cache
+D:\dio\trilha-csharp-oo\obj\Debug\net8.0\trilha-csharp-oo.dll
+D:\dio\trilha-csharp-oo\obj\Debug\net8.0\refint\trilha-csharp-oo.dll
+D:\dio\trilha-csharp-oo\obj\Debug\net8.0\trilha-csharp-oo.pdb
+D:\dio\trilha-csharp-oo\obj\Debug\net8.0\trilha-csharp-oo.genruntimeconfig.cache
+D:\dio\trilha-csharp-oo\obj\Debug\net8.0\ref\trilha-csharp-oo.dll
