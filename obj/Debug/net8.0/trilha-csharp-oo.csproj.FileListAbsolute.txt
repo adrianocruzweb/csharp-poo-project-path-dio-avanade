@@ -12,3 +12,4 @@ D:\dio\trilha-csharp-oo\obj\Debug\net8.0\refint\trilha-csharp-oo.dll
 D:\dio\trilha-csharp-oo\obj\Debug\net8.0\trilha-csharp-oo.pdb
 D:\dio\trilha-csharp-oo\obj\Debug\net8.0\trilha-csharp-oo.genruntimeconfig.cache
 D:\dio\trilha-csharp-oo\obj\Debug\net8.0\ref\trilha-csharp-oo.dll
+D:\dio\trilha-csharp-oo\obj\Debug\net8.0\trilha-csharp-oo.sourcelink.json

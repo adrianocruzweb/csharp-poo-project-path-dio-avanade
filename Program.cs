@@ -14,7 +14,7 @@ c1.ExibirSaldo();
 c1.Sacar(500);
 c1.ExibirSaldo();*/
 
-Aluno aluno = new Aluno();
+/*Aluno aluno = new Aluno();
 aluno.Nome = "Adriano";
 aluno.Idade = 35;
 aluno.Email = "adrianocruzweb@gmail.com";
@@ -28,4 +28,8 @@ professor.Idade = 40;
 professor.Email = "professorjoao@gmail.com";
 professor.Salario = 35000.00;
 
-professor.Apresentar();
+professor.Apresentar();*/
+
+Corrente contaCorrente = new Corrente();
+contaCorrente.Creditar(200);
+contaCorrente.ExibirSaldo();

@@ -7,6 +7,11 @@ namespace trilha_csharp_oo.Models
 {
     public class Professor : Pessoa
     {
+
+        public Professor(string nome) : base(nome)
+        {
+
+        }
         public double Salario { get; set; }
 
         public override void Apresentar()
