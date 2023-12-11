@@ -30,6 +30,15 @@ professor.Salario = 35000.00;
 
 professor.Apresentar();*/
 
-Corrente contaCorrente = new Corrente();
+/*Corrente contaCorrente = new Corrente();
 contaCorrente.Creditar(200);
-contaCorrente.ExibirSaldo();
+contaCorrente.ExibirSaldo();*/
+
+
+Pessoa pessoa = new Pessoa("Adriano");
+Aluno aluno = new Aluno("Osvaldo");
+Professor professor = new Professor("Marcos");
+
+pessoa.Apresentar();
+aluno.Apresentar();
+professor.Apresentar();

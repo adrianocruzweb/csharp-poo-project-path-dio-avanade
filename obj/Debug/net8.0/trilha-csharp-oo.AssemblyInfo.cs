@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trilha-csharp-oo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3796ab3c1b56b89b7cfbcd86d7802328c48b5ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e8c619d4f73991284419aa8741a9394b13def99")]
 [assembly: System.Reflection.AssemblyProductAttribute("trilha-csharp-oo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trilha-csharp-oo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
