@@ -18,6 +18,11 @@ namespace trilha_csharp_oo.Models
         }
         public double Salario { get; set; }
 
+        /*public sealed override void Apresentar()
+        {
+            Console.WriteLine($"Meu nome é {Nome}, tenho {Idade}, e meu Salário é {Salario}");
+        }*/
+
         public override void Apresentar()
         {
             Console.WriteLine($"Meu nome é {Nome}, tenho {Idade}, e meu Salário é {Salario}");
