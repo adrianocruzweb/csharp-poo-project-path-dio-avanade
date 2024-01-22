@@ -42,3 +42,5 @@ Professor professor = new Professor("Marcos");
 pessoa.Apresentar();
 aluno.Apresentar();
 professor.Apresentar();
+
+Computer computer = new Computer();
