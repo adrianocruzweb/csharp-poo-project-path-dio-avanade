@@ -10,6 +10,9 @@ namespace trilha_csharp_oo.Interfaces
         int Add(int numeroUm, int numeroDois);
         int Subtract(int numeroUm, int numeroDois);
         int Multiply(int numeroUm, int numeroDois);
-        int Divide(int numeroUm, int numeroDois);
+        int Divide(int numeroUm, int numeroDois)
+        {
+            return numeroDois / numeroUm;
+        }
     }
 }
