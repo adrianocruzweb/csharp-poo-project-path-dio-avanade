@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using trilha_csharp_oo.Interfaces;
 using trilha_csharp_oo.Models;
 
 /*Pessoa p1 = new Pessoa();
@@ -44,3 +45,7 @@ aluno.Apresentar();
 professor.Apresentar();
 
 Computer computer = new Computer();
+
+ICalculadora calc = new Calculadora();
+
+Console.WriteLine(calc.Add(2,7));
